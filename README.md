@@ -1,4 +1,4 @@
-# StreamVault - Personal Media Streaming Platform
+# FerFlix - Personal Media Streaming Platform
 
 A Netflix-style streaming platform for hosting and sharing your personal movie and TV show collection.
 
