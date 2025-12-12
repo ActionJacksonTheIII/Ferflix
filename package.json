@@ -1,0 +1,35 @@
+{
+  "name": "streamvault",
+  "version": "1.0.0",
+  "description": "Personal media streaming platform with Netflix-style interface",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "streaming",
+    "media",
+    "movies",
+    "netflix",
+    "video",
+    "player",
+    "personal",
+    "collection"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "vercel": "^32.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/streamvault.git"
+  },
+  "homepage": "https://streamvault.vercel.app",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/streamvault/issues"
+  }
+}
